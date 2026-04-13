@@ -64,13 +64,7 @@
         "key": "abc123",
         "expirydate": "23-04-2026",
         "Allowoffline": false
-    }, 
-    {
-        "device_id": "453542c273d757eb",
-        "key": "abc",
-        "expirydate": "27-04-2026",
-        "Allowoffline": false
-    }, 
+    },  
     {
         "device_id": "def378ed4e70c14c",
         "key": "1234",
@@ -80,7 +74,7 @@
     {
         "device_id": "9955c39e61cdb03a",
         "key": "123ab",
-        "expirydate": "14-04-2026",
+        "expirydate": "27-04-2026",
         "Allowoffline": false
     }
 ]
