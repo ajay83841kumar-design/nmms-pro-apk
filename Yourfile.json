@@ -72,21 +72,9 @@
         "Allowoffline": false
     },
     {
-        "device_id": "07b66f7e748b7ef2",
-        "key": "12abcde",
-        "expirydate": "19-04-2026",
-        "Allowoffline": false
-    },
-    {
         "device_id": "e3bbd1f8d46b6950",
         "key": "24abcd",
         "expirydate": "05-05-2026",
-        "Allowoffline": false
-    },
-    {
-        "device_id": "7daeb51041e1cbc0",
-        "key": "34abcd",
-        "expirydate": "21-04-2026",
         "Allowoffline": false
     },
     {
